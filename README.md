@@ -35,7 +35,7 @@ bash ffscript.sh
 git clone https://github.com/Kamanati/ffscript && cd ffscript.sh && bash ffscript.sh
 ```
 ## video
-<p align="center"> <a href="https://youtu.be/RFLWTVXaLoQ"><img title="Made in INDIA" width="58%" src="/img/20220630_194920_0000.png"></a>
+<p align="center"> <a href="https://youtu.be/bxBQw-EX6ag"><img title="Made in INDIA" width="58%" src="/.img/20220701_205733_0000.png"></a>
 
 ### Find Me on :
 
